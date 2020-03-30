@@ -1,3 +1,4 @@
+#Author: Pierre Akladios
 def Euler(x,y,h,target):
     '''
     change f depending on the case
